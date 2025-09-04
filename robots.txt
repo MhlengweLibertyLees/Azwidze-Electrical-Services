@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.azwidze.co.za/sitemap.xml
